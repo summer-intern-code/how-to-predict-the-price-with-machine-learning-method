@@ -1,1 +1,1 @@
-# how-to-predict-the-price-with-machine-learning-method
+# how to predict the price with machine learning method
