@@ -7,5 +7,5 @@
 #### SVM (price only)---svm.py
 #### Random Forest Model (price only)---randomforest.py
 #### RNN/LSTM/GR---lstm.py,finaltestmodel.py
-#### HMM(Looking for hidden state to define bear/bull market
+#### HMM(Looking for hidden state to define bear/bull market---hmmmodel.py
 
