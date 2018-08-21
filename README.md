@@ -5,5 +5,5 @@
 #### Linear/Quadratic/Cubic regression (price-volume)
 #### SVM (price only)
 #### Random Forest Model (price only)
-#### RNN/LSTM/GRU
+#### RNN/LSTM/GR
 
