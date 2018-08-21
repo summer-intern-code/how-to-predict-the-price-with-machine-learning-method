@@ -6,4 +6,5 @@
 #### SVM (price only)
 #### Random Forest Model (price only)
 #### RNN/LSTM/GR
+#### HMM(Looking for hidden state to define bear/bull market
 
