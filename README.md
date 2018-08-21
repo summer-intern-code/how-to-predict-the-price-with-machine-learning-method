@@ -1,4 +1,4 @@
-# how to predict the price with machine learning method
+# How to predict the price with machine learning method
 ## Introduction
 #### This part contains code related to predicting the price in a rolling basis and feature optimization engneering.
 ## Main method
